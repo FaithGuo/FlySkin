@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace FlySkin
 {
-    class Test
+    public class Test
     {
     }
 }
