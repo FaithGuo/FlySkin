@@ -8,5 +8,10 @@ namespace FlySkin
 {
     public class Test
     {
+        public void TestFunc()
+        {
+            Console.WriteLine("这是个测试的方法");
+
+        }
     }
 }
